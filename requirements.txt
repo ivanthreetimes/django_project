@@ -7,9 +7,11 @@ cffi==1.15.1
 charset-normalizer==3.1.0
 cleo==2.0.1
 crashtest==0.4.1
+crispy-bootstrap4==2022.1
 cryptography==41.0.2
 distlib==0.3.7
 Django==4.2.4
+django-crispy-forms==2.0
 dulwich==0.21.5
 filelock==3.12.2
 html5lib==1.1
@@ -25,6 +27,7 @@ more-itertools==9.1.0
 msgpack==1.0.5
 packaging==23.1
 pexpect==4.8.0
+Pillow==10.0.0
 pipenv==2023.7.23
 pkginfo==1.9.6
 platformdirs==3.10.0
